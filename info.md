@@ -16,7 +16,7 @@ There is a comprehensive guide to attractions and things to do at [Huntsville's 
 
 Flying in and out of Huntsville Airport (HSV) is usually expensive, with limited airline choices.
 
-The carriers flying into Huntsville are:
+The carriers available in Huntsville are:
 
 * American Airlines
 * Delta Air Lines
@@ -25,6 +25,8 @@ The carriers flying into Huntsville are:
 * Frontier Airlines
 
 If you're going to rent a car and have the time, you can often save significantly by comparing flights into Nashville, TN (BNA) or Birmingham, AL (BHM). These are each about a two hour drive from the conference hotel. Southwest flies into both of these airports.
+
+[Amtrak has a station in Birmingham also[(https://www.amtrak.com/stations/bhm), so you can take a train and rent a car. [Here's a route map](https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/Maps/Amtrak-System-Map-1018.pdf)
 
 ## Transit within Huntsville
 
