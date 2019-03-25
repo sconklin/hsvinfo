@@ -14,7 +14,7 @@ There is a comprehensive guide to attractions and things to do at [Huntsville's 
 
 ## Things to see and do near the Conference Hotel
 
-* [The Space and Rocket Center]((https://rocketcenter.com/)
+* [The Space and Rocket Center](https://rocketcenter.com/)
 * [Bridge Street Town Centre](https://www.bridgestreethuntsville.com/) - Shopping, Restaurants, Movie Theatre
 * [Huntsville Botanical Garden](http://hsvbg.org/)
 * [The University of Alabama in Huntsville](https://www.uah.edu/)
@@ -23,9 +23,9 @@ There is a comprehensive guide to attractions and things to do at [Huntsville's 
 
 ## Thursday evening's social event
 
-Eevryone is welcome to attend the [Biergarten] (https://www.rocketcenter.com/Biergarten) at the Space and Rocket Center. This event is open to the public, so bring your family and local friends. Food and beverages are available for purchase. If you purchase a ticket for this as part of your conference registration, it will cover food but not beverages.
+Everyone is welcome to attend the [Biergarten](https://www.rocketcenter.com/Biergarten) at the Space and Rocket Center. This event is open to the public, so bring your family and local friends. Food and beverages are available for purchase. If you purchase a ticket for this as part of your conference registration, it will cover food but not beverages.
 
-## Don't Miss things to do a little further away
+## "Don't Miss" things to do a little further away
 
 * [Campus 805](https://campus805.com/) is an old middle school which now hosts local crraft breweries, restaurants, and entertainment.
 * [Lowe Mill](http://www.lowemill.net/) Arts & Entertainment is the largest privately owned arts facility in the United States. This huge historic factory building has been redeveloped into 148 working studios for over 200 artists and makers, 6 galleries, performance venues, and restaurants. You have never seen anything like it.
@@ -39,8 +39,8 @@ Eevryone is welcome to attend the [Biergarten] (https://www.rocketcenter.com/Bie
 * Mexican Fast: [Taqueria El Cazador](http://elcazadortaqueria.com/) The taco bus at the corner of 9th St and Governor's Drive
 * Mexican Sitdown: [Phil Sandoval's](https://www.philsandovals.com/)
 * Diner: [Blue Plate Cafe](http://www.blueplatecafe.com/) Crowded during peak hours
-* German: [Ol Heidelburg[(https://olheidelberg.com/)
-* BBQ: [Ted's] (https://www.tedsbar-b-q.com/)
+* German: [Ol Heidelburg](https://olheidelberg.com/)
+* BBQ: [Ted's](https://www.tedsbar-b-q.com/)
 * Indian: Ruchi, 4800 Whitesburg Dr, Huntsville, AL 35801
 * Chinese: Ding How II, 4800 Whitesburg Dr (Dim Sum on weekends)
 * Korean:: I Love Korea, 404 Jordan Ln NW
