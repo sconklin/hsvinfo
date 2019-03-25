@@ -12,7 +12,7 @@ There is a comprehensive guide to attractions and things to do at [Huntsville's 
 
 * Camping is available at the [Monte Sano state park](https://www.alapark.com/campground). This is a lovely campground with pull-through, back-in, and tent camping spaces. There are also cabins available for rental in the park. The drive from the park to the conference hotel is 20-40 minutes, depending on traffic.
 
-## Travel to/from Huntsville
+## Travel To and From Huntsville
 
 Flying in and out of Huntsville Airport (HSV) is usually expensive, with limited airline choices.
 
@@ -26,7 +26,7 @@ The carriers available in Huntsville are:
 
 If you're going to rent a car and have the time, you can often save significantly by comparing flights into Nashville, TN (BNA) or Birmingham, AL (BHM). These are each about a two hour drive from the conference hotel. Southwest flies into both of these airports.
 
-[Amtrak has a station in Birmingham also[(https://www.amtrak.com/stations/bhm), so you can take a train and rent a car. [Here's a route map](https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/Maps/Amtrak-System-Map-1018.pdf)
+[Amtrak has a station in Birmingham also](https://www.amtrak.com/stations/bhm), so you can take a train and rent a car. [Here's a route map](https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/Maps/Amtrak-System-Map-1018.pdf).
 
 ## Transit within Huntsville
 
