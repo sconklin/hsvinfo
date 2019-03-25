@@ -43,7 +43,7 @@ Everyone is welcome to attend the [Biergarten](https://www.rocketcenter.com/Bier
 * BBQ: [Ted's](https://www.tedsbar-b-q.com/)
 * Indian: Ruchi, 4800 Whitesburg Dr, Huntsville, AL 35801
 * Chinese: Ding How II, 4800 Whitesburg Dr (Dim Sum on weekends)
-* Korean:: I Love Korea, 404 Jordan Ln NW
+* Korean: I Love Korea, 404 Jordan Ln NW
 
 ## Meal Delivery to the Hotel
 
