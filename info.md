@@ -32,7 +32,7 @@ If you're going to rent a car and have the time, you can often save significantl
 
 If you don't have a car, we recommend using ride sharing services or taxis for local transportation.
 
-Huntsville has very limited [public transit[(https://www.huntsvilleal.gov/residents/streets/public-transportation/shuttle-bus/), with several [city bus routes](https://maps.huntsvilleal.gov/PublicTransit/).
+Huntsville has very limited [public transportation](https://www.huntsvilleal.gov/residents/streets/public-transportation/shuttle-bus/), with several [city bus routes](https://maps.huntsvilleal.gov/PublicTransit/).
 
 [Route 3](https://maps.huntsvilleal.gov/PublicTransit/maps/Route3_2015.pdf) stops at the Marriott at 31 minutes after the hour, and takes an hour to run that route. Tranfers only occor at the transit center, at the other end of the route. The last trip departs that transit center at 5 PM.
 
