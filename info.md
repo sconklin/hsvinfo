@@ -12,6 +12,28 @@ There is a comprehensive guide to attractions and things to do at [Huntsville's 
 
 * Camping is available at the [Monte Sano state park](https://www.alapark.com/campground). This is a lovely campground with pull-through, back-in, and tent camping spaces. There are also cabins available for rental in the park. The drive from the park to the conference hotel is 20-40 minutes, depending on traffic.
 
+## Travel to/from Huntsville
+
+Flying in and out of Huntsville Airport (HSV) is usually expensive, with limited airline choices.
+
+The carriers flying into Huntsville are:
+
+* American Airlines
+* Delta Air Lines
+* United Airlines
+* Silver Airways
+* Frontier Airlines
+
+If you're going to rent a car and have the time, you can often save significantly by comparing flights into Nashville, TN (BNA) or Birmingham, AL (BHM). These are each about a two hour drive from the conference hotel. Southwest flies into both of these airports.
+
+## Transit within Huntsville
+
+If you don't have a car, we recommend using ride sharing services or taxis for local transportation.
+
+Huntsville has very limited [public transit[(https://www.huntsvilleal.gov/residents/streets/public-transportation/shuttle-bus/), with several [city bus routes](https://maps.huntsvilleal.gov/PublicTransit/).
+
+[Route 3](https://maps.huntsvilleal.gov/PublicTransit/maps/Route3_2015.pdf) stops at the Marriott at 31 minutes after the hour, and takes an hour to run that route. Tranfers only occor at the transit center, at the other end of the route. The last trip departs that transit center at 5 PM.
+
 ## Things to see and do near the Conference Hotel
 
 * [The Space and Rocket Center](https://rocketcenter.com/)
