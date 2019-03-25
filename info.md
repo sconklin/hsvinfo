@@ -26,7 +26,7 @@ The carriers available in Huntsville are:
 
 If you're going to rent a car and have the time, you can often save significantly by comparing flights into Nashville, TN (BNA) or Birmingham, AL (BHM). These are each about a two hour drive from the conference hotel. Southwest flies into both of these airports.
 
-[Amtrak has a station in Birmingham also](https://www.amtrak.com/stations/bhm), so you can take a train and rent a car. [Here's a route map](https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/Maps/Amtrak-System-Map-1018.pdf).
+[Amtrak has a station in Birmingham](https://www.amtrak.com/stations/bhm), so you can take a train and rent a car. [Here's a route map](https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/Maps/Amtrak-System-Map-1018.pdf).
 
 ## Transit within Huntsville
 
@@ -34,7 +34,7 @@ If you don't have a car, we recommend using ride sharing services or taxis for l
 
 Huntsville has very limited [public transportation](https://www.huntsvilleal.gov/residents/streets/public-transportation/shuttle-bus/), with several [city bus routes](https://maps.huntsvilleal.gov/PublicTransit/).
 
-[Route 3](https://maps.huntsvilleal.gov/PublicTransit/maps/Route3_2015.pdf) stops at the Marriott at 31 minutes after the hour, and takes an hour to run that route. Tranfers only occor at the transit center, at the other end of the route. The last trip departs that transit center at 5 PM.
+[Route 3](https://maps.huntsvilleal.gov/PublicTransit/maps/Route3_2015.pdf) stops at the Marriott at 31 minutes after the hour, and takes an hour to run that route. Tranfers only occur at the transit center, at the other end of the route. The last trip departs that transit center at 5 PM.
 
 ## Things to see and do near the Conference Hotel
 
@@ -78,6 +78,12 @@ Hotel addresses are:
 Mariott: 5 Tranquility Base, Huntsville, AL, 35805
 
 Drury: 93 Wynn Drive NW, Huntsville, AL 35805
+
+## Amateur Radio Repeaters
+
+The [North Alabama Repeater Association](http://n4hsv.net/) maintains [a number of repeaters](http://n4hsv.net/repeaters.html), and they are all open to anyone for use.
+You can almost always find someone on the 146.940 (PL 100.0, -600K offset) repeater, and it's a great place to ask for directions.
+During Emergencies (including severe weather events), the emergency net is active on 146.940, and the weather spotter net is active on 147.220 (PL 136.5, +600K).
 
 ## Things to do before or after the conference (come early and stay late!)
 
