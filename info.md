@@ -34,11 +34,11 @@ Everyone is welcome to attend the [Biergarten](https://www.rocketcenter.com/Bier
 
 ## Our favorite local restaurants near the hotel
 * VietNamese (Pho): Viet Huong, 930 Old Monrovia Rd NW
-* Vietnamese (Banh Mi): Viet Cuisine, 210 Jordan Ln NW
-* Caribbean: Mango's Caribbean Cookhouse,  1426 Paramount Dr
+* Vietnamese (Banh Mi)(Vegan Options): Viet Cuisine, 210 Jordan Ln NW
+* Caribbean (Vegan Options): Mango's Caribbean Cookhouse,  1426 Paramount Dr
 * Mexican Fast: [Taqueria El Cazador](http://elcazadortaqueria.com/) The taco bus at the corner of 9th St and Governor's Drive
-* Mexican Sitdown: [Phil Sandoval's](https://www.philsandovals.com/)
-* Diner: [Blue Plate Cafe](http://www.blueplatecafe.com/) Crowded during peak hours
+* Mexican Sitdown (Vegan Options): [Phil Sandoval's](https://www.philsandovals.com/)
+* Diner (Vegan Options): [Blue Plate Cafe](http://www.blueplatecafe.com/) Crowded during peak hours
 * German: [Ol Heidelburg](https://olheidelberg.com/)
 * BBQ: [Ted's](https://www.tedsbar-b-q.com/)
 * Indian: Ruchi, 4800 Whitesburg Dr, Huntsville, AL 35801
