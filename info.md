@@ -48,6 +48,9 @@ Everyone is welcome to attend the [Biergarten](https://www.rocketcenter.com/Bier
 ## Meal Delivery to the Hotel
 
 [Grubsouth](https://www.grubsouth.com/) delivers from many local restaurants, including some of the above.
+Hotel addresses are:
+Mariott: 5 Tranquility Base, Huntsville, AL, 35805
+Drury: 93 Wynn Drive NW, Huntsville, AL 35805
 
 ## Things to do before or after the conference (come early and stay late!)
 
