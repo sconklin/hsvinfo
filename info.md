@@ -82,7 +82,9 @@ Drury: 93 Wynn Drive NW, Huntsville, AL 35805
 ## Amateur Radio Repeaters
 
 The [North Alabama Repeater Association](http://n4hsv.net/) maintains [a number of repeaters](http://n4hsv.net/repeaters.html), and they are all open to anyone for use.
+
 You can almost always find someone on the 146.940 (PL 100.0, -600K offset) repeater, and it's a great place to ask for directions.
+
 During Emergencies (including severe weather events), the emergency net is active on 146.940, and the weather spotter net is active on 147.220 (PL 136.5, +600K).
 
 ## Things to do before or after the conference (come early and stay late!)
